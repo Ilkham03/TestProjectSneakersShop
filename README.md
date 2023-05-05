@@ -8,7 +8,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## `Этапы создания`
+### `Этапы создания`
 1) Подготовил новую папку для проекта
 2) Установил  фраймворк scss npm install node-sass,
 подключил шрифты, 
