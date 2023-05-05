@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Montserrat:wght@500;600&family=Raleway:ital,wght@0,600;1,500&family=Roboto:wght@400;700&display=swap');
+
+
+body {
+    margin: 0; padding: 0;
+    font-size: 21px;
+    color: white;
+    font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica Neue,Noto Sans,Liberation Sans,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+    // background-color: rgba(54, 41, 4, 0.262);;
+    background-color:  #f4f4ef;
+
+}
+
+ul,li,p, h1,h2,h3,h4,h5,h6{
+    margin: 0; padding: 0;
+    list-style: none;
+}
+
+*,
+*:after,
+*:before{
+    box-sizing: border-box;
+}
+
+.container{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+

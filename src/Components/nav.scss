@@ -1,0 +1,41 @@
+.nav{
+    width: 100%;
+    background-color: #6594d1;
+    margin-bottom: 15px;
+    padding: 0 15px;
+    
+}
+
+.nav__list{
+    list-style: none;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    
+}
+
+.nav__item{
+    padding: 10px 15px;
+    cursor: pointer;
+    color: #c8c5c5;
+}
+
+.nav__link{
+    text-decoration: none;
+    color: #c8c5c5;
+}
+
+
+@media (max-width: 650px){
+    .nav__list{
+        display: flex;
+        flex-flow: column;
+    }
+    
+     
+}
+    
+  @media (max-width: 991px){
+    
+    
+}
